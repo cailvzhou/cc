@@ -2,7 +2,7 @@
 *.d
 #нд╪Ч╪п
 .vs
-
+Debug
 
 # Compiled Object files
 *.slo
