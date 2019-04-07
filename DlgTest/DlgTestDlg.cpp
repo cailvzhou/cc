@@ -170,3 +170,4 @@ void CDlgTestDlg::OnBnClickedButton2()
 	AfxMessageBox(_T("test"));
 AfxMessageBox(_T("test333"));
 
+}
