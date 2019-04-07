@@ -1,11 +1,16 @@
 # Prerequisites
 *.d
+#нд╪Ч╪п
+.vs
+Debug
 
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
+*.opendb
+
 
 # Precompiled Headers
 *.gch
@@ -27,5 +32,10 @@
 *.lib
 
 # Executables
+<<<<<<< HEAD
 *.out
 *.app
+
+*.vs
+*.ilk
+*.aps
