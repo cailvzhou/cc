@@ -173,3 +173,4 @@ AfxMessageBox(_T("test1"));
 AfxMessageBox(_T("test到ev"));
 AfxMessageBox(_T("test到ev111"));
 
+}
