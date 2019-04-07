@@ -168,4 +168,5 @@ void CDlgTestDlg::OnBnClickedButton2()
 {
 	// TODO: 在此添加控件通知处理程序代码
 	AfxMessageBox(_T("test"));
+AfxMessageBox(_T("test1"));
 }
